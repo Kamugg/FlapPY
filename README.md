@@ -1,2 +1,2 @@
 # FlapPY
- Simple flappy bird game with pygame in python
+ Simple flappy bird game made with pygame
